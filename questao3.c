@@ -27,7 +27,7 @@ int main() {
     // Calcular o menor e o maior valor de faturamento, e somar apenas os dias com faturamento
     for (int i = 0; i < dias; i++) {
         if (faturamento[i] > 0) {  // Considera apenas dias com faturamento
-            if (faturamento[i] < menor) {
+            if (faturamento[i] < menor) { 
                 menor = faturamento[i];
             }
             if (faturamento[i] > maior) {
