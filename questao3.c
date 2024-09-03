@@ -1,12 +1,3 @@
-// 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
-// • O menor valor de faturamento ocorrido em um dia do mês;
-// • O maior valor de faturamento ocorrido em um dia do mês;
-// • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
-// IMPORTANTE:
-// a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
-// b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
-
-
 // Nota: Eu não tenho familiaridade com JSON e XML, então optei por utilizar vetores que contêm os valores de faturamento
 // que estariam presentes nos arquivos JSON e XML para resolver este problema. No entanto, estou disposta a aprender 
 // e me adaptar ao uso de JSON e XML em projetos futuros, conforme necessário. 
