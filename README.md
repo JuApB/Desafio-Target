@@ -3,7 +3,7 @@
 Este repositório contém as soluções de um desafio de um processo seletivo, que incluiu a redação e a resolução de cinco problemas de programação no qual optei por fazer em C.
 
 
-*Descrição dos Problemas*
+# *Descrição dos Problemas*
 
 _Problema 1_
 
@@ -63,8 +63,7 @@ Importante: a) Essa string pode ser informada através de qualquer entrada de su
 b) Evite usar funções prontas, como, por exemplo, 'reverse'.
 
 
-
-*Arquivos*
+# *Arquivos*
 
 Os códigos para cada problema estão nomeados como segue:
 
@@ -79,6 +78,6 @@ Os códigos para cada problema estão nomeados como segue:
 	  questao5.c - Solução para o Problema 5
   
 
-*Instruções para Execução*
+# *Instruções para Execução*
 
 Para executar cada programa, compile o código em C e execute-o em um ambiente de desenvolvimento compatível. Certifique-se de fornecer as entradas necessárias conforme descrito em cada problema.
