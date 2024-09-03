@@ -1,3 +1,5 @@
+    O Desafio do Home Office
+
     A pandemia transformou drasticamente a forma como trabalhamos, e para muitas pessoas, trabalhar em casa foi uma grande 
 dificuldade. A adaptação a um novo ambiente, que antes era reservado para o descanso, não foi o único componente dessa transição. 
 Também envolveu a adoção de novas abordagens e ferramentas de trabalho.
