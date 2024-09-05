@@ -3,9 +3,9 @@
 Este repositório contém as soluções de um desafio de um processo seletivo, que incluiu a redação e a resolução de cinco problemas de programação no qual optei por fazer em C.
 
 
-# *Descrição dos Problemas*
+## Descrição dos Problemas
 
-_Problema 1_
+### _Problema 1_
 
 Enunciado: Observe o trecho de código abaixo:
 
@@ -17,7 +17,7 @@ Enunciado: Observe o trecho de código abaixo:
   
 Ao final do processamento, qual será o valor da variável SOMA?
 
-_Problema 2_
+### _Problema 2_
 
 	Enunciado: Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor 
 	sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), 
@@ -26,7 +26,7 @@ _Problema 2_
 
 Importante: O número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código.
 
-_Problema 3_
+### _Problema 3_
 
 Enunciado: Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa que calcule e retorne:
    
@@ -39,7 +39,7 @@ Enunciado: Dado um vetor que guarda o valor de faturamento diário de uma distri
 Importante: a) Usar o JSON ou XML disponível como fonte dos dados do faturamento mensal; 
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média.
 
-_Problema 4_
+### _Problema 4_
 
 Enunciado: Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
   
@@ -55,7 +55,7 @@ Enunciado: Dado o valor de faturamento mensal de uma distribuidora, detalhado po
 	  
 Escreva um programa onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
-_Problema 5_
+### _Problema 5_
 
 	Enunciado: Escreva um programa que inverta os caracteres de uma string.
 
@@ -63,7 +63,7 @@ Importante: a) Essa string pode ser informada através de qualquer entrada de su
 b) Evite usar funções prontas, como, por exemplo, 'reverse'.
 
 
-# *Arquivos*
+## *Arquivos*
 
 Os códigos para cada problema estão nomeados como segue:
 
@@ -78,6 +78,6 @@ Os códigos para cada problema estão nomeados como segue:
 	  questao5.c - Solução para o Problema 5
   
 
-# *Instruções para Execução*
+## *Instruções para Execução*
 
 Para executar cada programa, compile o código em C e execute-o em um ambiente de desenvolvimento compatível. Certifique-se de fornecer as entradas necessárias conforme descrito em cada problema.
